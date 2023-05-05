@@ -8,9 +8,21 @@ We found that higher income does affect mental health negatively, as wealthier n
 
 
 
+Suicide Rates by Generation
+
+Based on the data found, suicide rates are not dependant on the country’s standard of living but rather the factors and events that the generation experienced.
+
+
+
 Household Income vs. Suicide rates: 
 
 From the analysis we made,  the correlation coefficient (r-value) indicated no correlation of household income with the suicide rates of a country.
+
+
+
+Country HDI vs Suicide rates
+
+Based on the data found, suicide rates are not dependant on the country’s HDI score and instead have an negative effect on suicide rates as there is a weak positive correlation in our dataset.
 
 
 

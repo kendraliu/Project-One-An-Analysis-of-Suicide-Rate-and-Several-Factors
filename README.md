@@ -10,8 +10,6 @@ We found that higher income does affect mental health negatively, as wealthier n
 
 Household Income vs. Suicide rates: 
 
-Our hypothesis is that individuals with lower household incomes are at a higher risk of suicide than those with higher incomes because of higher levels of financial stress and limited access to mental health services, which can increase the risk of suicide. 
-
 From the analysis we made,  the correlation coefficient (r-value) indicated no correlation of household income with the suicide rates of a country.
 
 

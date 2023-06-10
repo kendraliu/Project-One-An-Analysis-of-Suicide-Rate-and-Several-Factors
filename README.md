@@ -1,6 +1,4 @@
 # Project One:  An Analysis of Suicide Rate and Several Factors
-#google slides with visualizations of the data bellow
-https://docs.google.com/presentation/d/1Cevu2STKsTUILSiorIUazQAlz3hb0z_V0PfqrWrWoKc/edit?usp=sharing
 
 We found that higher income does affect mental health negatively, as wealthier nations have higher suicide rates than poorer ones. The vast majority of those affected being male. We can also conclude that there is a large decrease in suicide rates in younger generations due mental health being more socially accepted. 
 

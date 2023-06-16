@@ -10,8 +10,9 @@ Factors that this project investigates include: ross national income (GNI), Huma
 The data are pulled from the most recent year available with the latest being 2020 and the earliest being 2017. 
 
 ## Files:
-* /Data visualization/: This directory contains the visualizations of the findings of this project.
-* /Suicide Rates Analysis.ipynb: The source code for the project, producing the data visualizations.
+* /Suicide Rates Analysis.pdf: A full analysis of this project, including visualization of the data.
+* /Visualizations.pdf: This file contains the graphs of the findings of this project.
+* /Suicide Rates Analysis.ipynb: The source code for the project, analyzing the data and producing the data visualizations.
 * /Data/: This directory stores the input and output data files.
     * /Data/Resource Datasets/: Contains the input data files that will be cleaned.
     * /Data/Cleaned up Datasets/: The output data files generated after data cleanup.

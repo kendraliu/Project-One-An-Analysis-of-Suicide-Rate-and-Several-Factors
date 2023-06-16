@@ -1,24 +1,22 @@
 # Project One:  An Analysis of Suicide Rate and Several Factors
 
-We found that higher income does affect mental health negatively, as wealthier nations have higher suicide rates than poorer ones. The vast majority of those affected being male. We can also conclude that there is a large decrease in suicide rates in younger generations due mental health being more socially accepted. 
+## Overview
+This project analyzes the data of suicide rates and mental illness prevalence in various countries to find the factors that can affect them.
 
+Visualizations of the analysis are made for a better understanding of the data as well.
 
-Suicide Rates by Generation
+Factors that this project investigates include: ross national income (GNI), Human Development Index (HDI), generation, and gender.
 
-Based on the data found, suicide rates are not dependant on the country’s standard of living but rather the factors and events that the generation experienced.
+The data are pulled from the most recent year available with the latest being 2020 and the earliest being 2017. 
 
-Gender affect on suicide rates:
-
-We found that 65% of them are male and 35% being female. There are other factors found such as generations that accept mental illnesses, seek help and lower the statistics.
-
-Household Income vs. Suicide rates: 
-
-From the analysis we made,  the correlation coefficient (r-value) indicated no correlation of household income with the suicide rates of a country.
-
-Country HDI vs Suicide rates
-
-Based on the data found, suicide rates are not dependant on the country’s HDI score and instead have an negative effect on suicide rates as there is a weak positive correlation in our dataset.
-
-Household Income vs. Mental Disorders:
-
-We found that schizophrenia (r-value=0.79), eating disorders (r-value=0.68), anxiety disorder (r-value=0.85), depression (r-value=0.55), and drug use disorder (r-value=0.41) all have a positive correlation with household income. On the contrary, alcohol use disorder has a weak negative correlation with household income (r-value=-0.37). At the meantime, bipolar disorder does not have a correlation with household income (r-value=0.23).
+## Files:
+* /Data visualization/: The visualizations of the findings of this project.
+* /Suicide Rates Analysis.ipynb: The source code for the project, producing the data visualizations.
+* /Data/: This directory stores the input and output data files.
+    * /Data/Resource Datasets/: Contains the input data files that will be cleaned.
+    * /Data/Cleaned up Datasets/: The output data files generated after data cleanup.
+    
+## Authors
+- [Kendra Liu](https://github.com/kendraliu)
+- [Mason Wikoff] (https://github.com/masonwiki)
+- [Fredritz Cabrera] (https://github.com/FredritzNCabrera)

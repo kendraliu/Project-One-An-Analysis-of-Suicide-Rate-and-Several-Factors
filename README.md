@@ -10,7 +10,7 @@ Factors that this project investigates include: ross national income (GNI), Huma
 The data are pulled from the most recent year available with the latest being 2020 and the earliest being 2017. 
 
 ## Files:
-* /Data visualization/: The visualizations of the findings of this project.
+* /Data visualization/: This directory contains the visualizations of the findings of this project.
 * /Suicide Rates Analysis.ipynb: The source code for the project, producing the data visualizations.
 * /Data/: This directory stores the input and output data files.
     * /Data/Resource Datasets/: Contains the input data files that will be cleaned.
@@ -18,5 +18,5 @@ The data are pulled from the most recent year available with the latest being 20
     
 ## Authors
 - [Kendra Liu](https://github.com/kendraliu)
-- [Mason Wikoff] (https://github.com/masonwiki)
-- [Fredritz Cabrera] (https://github.com/FredritzNCabrera)
+- [Mason Wikoff](https://github.com/masonwiki)
+- [Fredritz Cabrera](https://github.com/FredritzNCabrera)
